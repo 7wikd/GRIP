@@ -1,2 +1,2 @@
 # GRIP
-GRIP-Sparks Foundation
+
